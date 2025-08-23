@@ -7,7 +7,7 @@ Hi there! 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=10B981&width=435&lines=Hi+there!+I'm+Amantha+Gamage;Passionate+about+Coding;Learning+Java+%26+Backend+Dev)](https://git.io/typing-svg)
 
 🌍  Based in Sri Lanka  
-✉️  You can contact me at [gamageamantha@gmail.com](mailto:gamageamantha@gmail.com)
+✉️  You can contact me at [gamageamantha@gmail.com](mailto:gamageamantha@gmail.com) <br>
 🧠  Currently learning **Java**  
 🤝  Open to collaborating on **backend projects**  
 
@@ -55,7 +55,7 @@ Hi there! 👋
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=AmiChanDev&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmiChanDev&theme=radical" alt="Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiChanDev&layout=compact&theme=radical" alt="Top Languages"/>
