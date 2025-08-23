@@ -7,7 +7,7 @@ Hi there! 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=10B981&width=435&lines=Hi+there!+I'm+Amantha+Gamage;Passionate+about+Coding;Learning+Java+%26+Backend+Dev)](https://git.io/typing-svg)
 
 🌍  Based in Sri Lanka  
-✉️  Reach me at [![Email](https://img.shields.io/badge/gamageamantha%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamageamantha@gmail.com)  
+✉️  You can contact me at [gamageamantha@gmail.com](mailto:gamageamantha@gmail.com)
 🧠  Currently learning **Java**  
 🤝  Open to collaborating on **backend projects**  
 
@@ -29,12 +29,6 @@ Hi there! 👋
   </a>
   <a href="https://www.linkedin.com/in/amantha-gamage-367955257" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.stackoverflow.com/users/26684164/amantha-gamage" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-%23F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-  </a>
-  <a href="https://www.x.com/GamageAmi" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@AmiG" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
