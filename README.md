@@ -65,8 +65,8 @@ Hi there! 👋
 
 ### 📌 Top Repositories
 <p align="center">
-  <a href="https://github.com/AmiChanDev/pythonBank-With-GUI">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmiChanDev&repo=pythonBank-With-GUI&theme=radical"/>
+  <a href="https://github.com/AmiChanDev/expense-tracker">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmiChanDev&repo=expense-tracker&theme=radical"/>
   </a>
   <a href="https://github.com/AmiChanDev/eshop_project">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmiChanDev&repo=eshop_project&theme=radical"/>
