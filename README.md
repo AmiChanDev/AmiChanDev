@@ -58,7 +58,7 @@ Hi there! 👋
 
 ### 📊 GitHub Stats
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmiChanDev&theme=github_dark " alt="Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmiChanDev&theme=dark " alt="Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api?username=AmiChanDev&show_icons=true&theme=github_dark " alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiChanDev&layout=compact&theme=github_dark " alt="Top Languages"/>
 </p>
