@@ -78,8 +78,7 @@ Hi there! 👋
 ---
 
 ### 🎵 Miscellaneous Socials
-[![Steam](https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/amichan69/)  
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31relo55kt6bx5eorjfab5htuqsu?si=e41d6354f45a4a3f)
+[![Steam](https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/amichan69/) [![Spotify](https://img.shields.io/badge/Spotify-1ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31relo55kt6bx5eorjfab5htuqsu?si=e41d6354f45a4a3f)
 
 ---
 
