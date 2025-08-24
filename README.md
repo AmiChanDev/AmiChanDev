@@ -15,7 +15,7 @@ Hi there! 👋
 
 ### 🌐 Socials
 <p align="left">
-  <a href="https://discord.com/users/472797200028794912" target="_blank">
+  <a href="https://discord.com/users/472797200028794912">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/ami.gamage.69" target="_blank">
