@@ -58,9 +58,9 @@ Hi there! 👋
 
 ### 📊 GitHub Stats
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmiChanDev&theme=radical" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AmiChanDev&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiChanDev&layout=compact&theme=radical" alt="Top Languages"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmiChanDev&theme=dark" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmiChanDev&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiChanDev&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
 ---
@@ -68,10 +68,10 @@ Hi there! 👋
 ### 📌 Top Repositories
 <p align="center">
   <a href="https://github.com/AmiChanDev/expense-tracker">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmiChanDev&repo=expense-tracker&theme=radical"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmiChanDev&repo=expense-tracker&theme=dark"/>
   </a>
   <a href="https://github.com/AmiChanDev/rest-api-project">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmiChanDev&repo=rest-api-project&theme=radical"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmiChanDev&repo=rest-api-project&theme=dark"/>
   </a>
 </p>
 
