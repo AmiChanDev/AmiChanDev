@@ -68,7 +68,9 @@ Hi there! 👋
   <a href="https://github.com/AmiChanDev/expense-tracker">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmiChanDev&repo=expense-tracker&theme=radical"/>
   </a>
-
+  <a href="https://github.com/AmiChanDev/rest-api-project">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmiChanDev&repo=rest-api-project&theme=radical"/>
+  </a>
 </p>
 
 ---
