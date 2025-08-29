@@ -62,11 +62,11 @@ Hi there! 👋
 
 <p align="center">
 <a href="https://github.com/AmiChanDev">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=AmiChanDev&show_icons=true&theme=transparent&rank_icon=github" />
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=AmiChanDev&show_icons=true&theme=github_dark&rank_icon=github" />
   <a href="https://github.com/AmiChanDev">
-    <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmiChanDev&theme=transparent" />
+    <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmiChanDev&theme=github_dark" />
       <a href="https://github.com/AmiChanDev">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiChanDev&layout=compact&langs_count=8&theme=transparent&hide=hack" />
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiChanDev&layout=compact&langs_count=8&theme=github_dark&hide=hack" />
   </a>
 </p>
 
@@ -76,10 +76,10 @@ Hi there! 👋
 
 <p align="center">
   <a href="https://github.com/AmiChanDev/expense-tracker">
-    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmiChanDev&repo=expense-tracker&theme=transparent"/>
+    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmiChanDev&repo=expense-tracker&theme=github_dark"/>
   </a>
   <a href="https://github.com/AmiChanDev/rest-api-project">
-    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmiChanDev&repo=rest-api-project&theme=transparent"/>
+    <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmiChanDev&repo=rest-api-project&theme=github_dark"/>
   </a>
 </p>
 
