@@ -4,7 +4,7 @@ Hi there! 👋
 
 💻 Full-Stack Developer | AI Enthusiast | SE Undergraduate
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=10B981&width=435&lines=Hi+there!+I'm+Amantha+Gamage;Passionate+about+Coding;Learning+Java+%26+Backend+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3867F7&width=435&lines=Hi+There!;+I'm+Passionate+About+Coding;Learning+Full-Stack+Development)](https://git.io/typing-svg)
 
 🌍 Based in Sri Lanka  
 ✉️ You can contact me at [gamageamantha@gmail.com](mailto:gamageamantha@gmail.com) <br>
